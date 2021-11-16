@@ -1,2 +1,2 @@
 # BasicCleanArch
-[![ksatriow](https://circleci.com/gh/ksatriow/basic-clean-arch.svg?style=svg)](https://circleci.com/gh/ksatriow/basic-clean-arch)
+[![ksatriow](https://circleci.com/gh/ksatriow/BasicCleanArch.svg?style=svg)](https://circleci.com/gh/ksatriow/BasicCleanArch)
